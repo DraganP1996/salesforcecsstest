@@ -7,3 +7,7 @@
   height: 100px !important;
   font-size: 20px !important;
 }
+
+.containerArea .chatHeader .headerText {
+  color: red !important;
+}
